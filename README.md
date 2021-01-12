@@ -1,2 +1,2 @@
 # Rent_A_Car
-Rent_A_Car windows form aplikacija, xamarin aplikacija i WebAPI
+ Rent a car windows form app, xamarin app, and web api
